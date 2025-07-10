@@ -1,5 +1,6 @@
-streamlit
-langchain-google-genai
+treamlit
 python-dotenv
 google-generativeai
+supabase-py
 langchain
+langchain-google-genai
