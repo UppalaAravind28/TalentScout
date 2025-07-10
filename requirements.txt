@@ -1,4 +1,4 @@
-treamlit
+streamlit
 python-dotenv
 google-generativeai
 supabase-py
