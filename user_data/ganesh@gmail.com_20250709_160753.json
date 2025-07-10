@@ -1,0 +1,34 @@
+{
+    "name": "Ganesh",
+    "email": "ganesh@gmail.com",
+    "phone": "8782120474",
+    "experience": "0 years",
+    "tech_stack": [
+        "sql",
+        "python"
+    ],
+    "submission_time": "2025-07-09 16:07:53",
+    "interview_status": "incomplete",
+    "technical_responses": {
+        "question_1": {
+            "question": "1.In Python, explain the key differences between a `list` and a `tuple`. Provide a simple example of when you would prefer to use one over the other.",
+            "answer": "list is mutable and tuple is immutable.\n"
+        },
+        "question_2": {
+            "question": "2.Given a database table named `Products` with columns `ProductID`, `ProductName`, `Category`, and `Price`, write an SQL query to find the `ProductName` and `Price` of all products that belong to the 'Electronics' category and cost more than",
+            "answer": "jskkksks\n"
+        },
+        "question_3": {
+            "question": "500.Order the results by `Price` in descending order.",
+            "answer": "kjajbkabkabj"
+        },
+        "question_4": {
+            "question": "3.Write a Python function that takes a string as input and returns the string with all vowels removed. For example, if the input is \"hello world\", the output should be \"hll wrld\".",
+            "answer": "akjhikaJBKA"
+        },
+        "question_5": {
+            "question": "4.Imagine you have two SQL tables: `Orders` (columns: `OrderID`, `CustomerID`, `OrderDate`) and `Customers` (columns: `CustomerID`, `CustomerName`). Write an SQL query to display the `CustomerName` and the total number of orders placed by each customer. Include customers who have not placed any orders.\n\nPlease provide your answers.",
+            "answer": "ASKJBKABA"
+        }
+    }
+}

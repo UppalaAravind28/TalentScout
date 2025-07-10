@@ -1,0 +1,29 @@
+{
+    "name": "ganesh",
+    "email": "ganesh@gmail.com",
+    "phone": "1234567890",
+    "experience": "0 years",
+    "tech_stack": [
+        "python"
+    ],
+    "submission_time": "2025-07-09 16:17:47",
+    "interview_status": "incomplete",
+    "technical_responses": {
+        "question_1": {
+            "question": "1.Python has several built-in data types. Can you explain the difference between mutable and immutable data types in Python? Provide examples of each.",
+            "answer": "aaaa"
+        },
+        "question_2": {
+            "question": "2.Write a Python function that takes a list of numbers as input and returns a new list containing only the even numbers from the original list. Demonstrate how you would call this function with an example list.",
+            "answer": "weeee"
+        },
+        "question_3": {
+            "question": "3.Explain the concept of Object-Oriented Programming (OOP) in Python. What are classes and objects, and how do they relate to each other? Provide a simple example of defining a class and creating an object from it.",
+            "answer": "sss"
+        },
+        "question_4": {
+            "question": "4.When you're developing a Python project, why is it considered good practice to use virtual environments? Briefly describe the steps you would take to create and activate a virtual environment for a new project.\n\nPlease provide your answers.",
+            "answer": "ssss"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "praveen",
+    "email": "praveen@gamil.com",
+    "phone": "9182120474",
+    "experience": "0 years",
+    "tech_stack": [
+        "python"
+    ],
+    "submission_time": "2025-07-10 11:05:31",
+    "interview_status": "incomplete",
+    "technical_responses": {
+        "question_1": {
+            "question": "1.Explain the difference between mutable and immutable data types in Python. Provide examples of each and explain why this distinction is important when working with variables and passing arguments to functions.",
+            "answer": "kjhk"
+        },
+        "question_2": {
+            "question": "2.What is the purpose of `*args` and `**kwargs` in Python functions? Provide a simple example of a function where you might use both.",
+            "answer": "nnmm"
+        },
+        "question_3": {
+            "question": "3.Write a Python program that takes a list of integers (e.g., `[1, 5, 8, 12, 3, 9, 10]`) and returns a new list containing only the even numbers. Explain your approach.",
+            "answer": "mmmm"
+        },
+        "question_4": {
+            "question": "4.Describe the role of `try`, `except`, `else`, and `finally` blocks in Python. When would you use a `try-except` block, and what common error might you try to catch?\n\nPlease provide your answers.",
+            "answer": "mmm"
+        }
+    }
+}

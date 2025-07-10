@@ -1,0 +1,30 @@
+{
+    "name": "Ram",
+    "email": "ram@gmail.com",
+    "phone": "9182120474",
+    "experience": "1 years",
+    "tech_stack": [
+        "sql",
+        "python"
+    ],
+    "submission_time": "2025-07-09 16:06:05",
+    "interview_status": "abandoned",
+    "technical_responses": {
+        "question_1": {
+            "question": "1.**Python:** Explain the difference between `list.append()` and `list.extend()` in Python. Provide a code example for each to illustrate their behavior.",
+            "answer": "hkakakhja"
+        },
+        "question_2": {
+            "question": "2.**Python:** You're given a list of integers. Write a Python function that takes this list and returns a new list containing only the even numbers, in the same order, using a list comprehension.",
+            "answer": "hbakaikau"
+        },
+        "question_3": {
+            "question": "3.**SQL:** Imagine you have two tables: `Employees` (EmployeeID, EmployeeName, DepartmentID) and `Departments` (DepartmentID, DepartmentName). Write an SQL query to retrieve the `EmployeeName` and their corresponding `DepartmentName` for all employees. If an employee does not have a department assigned, they should still appear in the result, with `NULL` for the department name.",
+            "answer": "akjhkajhak"
+        },
+        "question_4": {
+            "question": "4.**SQL:** You have a table named `Orders` with columns `OrderID`, `CustomerID`, `OrderDate`, and `TotalAmount`. Write an SQL query to find the `CustomerID` and the `TotalAmount` of their highest single order. Only include customers who have placed more than one order.\n\nPlease provide your answers.",
+            "answer": "kajhvkaha"
+        }
+    }
+}

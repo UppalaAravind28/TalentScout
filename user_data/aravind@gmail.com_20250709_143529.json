@@ -1,0 +1,27 @@
+{
+    "name": "Uppala Aravind",
+    "email": "aravind@gmail.com",
+    "phone": "9182120474",
+    "experience": "1 years",
+    "tech_stack": [
+        "sql",
+        "aws",
+        "python"
+    ],
+    "submission_time": "2025-07-09 14:35:29",
+    "interview_status": "incomplete",
+    "technical_responses": {
+        "question_1": {
+            "question": "1.**Python:** Explain the concept of decorators in Python. Provide a simple code example demonstrating how you might use a decorator to add logging functionality to a function.",
+            "answer": "Decorators in Python provide a way to modify or enhance the behavior of functions or methods without directly altering their source code. They are essentially functions that take another function as an argument, add some functionality, and then return a new function (or a callable object) that wraps the original. This allows for clean separation of concerns, promoting code reusability and readability. The @ syntax provides a convenient way to apply decorators."
+        },
+        "question_2": {
+            "question": "2.**SQL:** You have two tables: `Orders` (columns: `order_id`, `customer_id`, `order_date`, `total_amount`) and `Customers` (columns: `customer_id`, `customer_name`, `city`). Write a SQL query to find the names of customers who have placed orders totaling more than $5000 in the last 30 days, and display their total order amount.",
+            "answer": "SELECT c.customer_name, SUM(o.total_amount) AS total_spent\nFROM Customers c\nJOIN Orders o ON c.customer_id = o.customer_id\nWHERE o.order_date >= DATE('now', '-30 days')\nGROUP BY c.customer_id\nHAVING SUM(o.total_amount) > 5000;\n"
+        },
+        "question_3": {
+            "question": "3.**AWS:** Imagine you need to deploy a scalable Python web application that interacts with a relational database. Describe which AWS services you would choose for:\n\nPlease provide your answers.",
+            "answer": "For a scalable Python web application interacting with a relational database on AWS, one would choose AWS Elastic Beanstalk for the application deployment and Amazon RDS for the database\n"
+        }
+    }
+}
